@@ -6,3 +6,16 @@ $ sh sub.sh
 
 Result:
 ![logo](https://raw.githubusercontent.com/meicookies/subdomainfinder/main/view1.png)
+
+## Buy My Coffe 
+## Donate 
+```
+Dana & Gopay 
++6285600006369
+```
+## Bitcoin[BTC]
+```
+Private Wallet
+bc1q9as2a2twj7zq9p3nk6u8pv66evdm79y4k3dynz
+![Logo]<a href="https://ibb.co/M8NT2N9"><img src="https://i.ibb.co/9wYX8YG/20210612-214545.png" alt="20210612-214545" border="0"></a>
+```
